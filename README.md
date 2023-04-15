@@ -25,6 +25,8 @@
 
 \<emoji\> [\<label\>] \<short title\>
 
+Example: `📄 [doc] added license`
+
 ## Titles:
 
 Titles should be short but descriptive. They should be a maximum of one sentence. When writing titles, write them in lower case and without periods (.), exclamation marks (!), or question marks (?) at the end of the title. Make sure to use "&" intead of "and". 
