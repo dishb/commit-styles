@@ -37,7 +37,7 @@ Titles should be short but descriptive. They should be a maximum of one sentence
 - feat : new feature
 - fix : bug fixes
 - test : testing
-- chore: chores
+- chore : chores
 - del : deletions
 - doc : documentation
 - edit : minor edits
