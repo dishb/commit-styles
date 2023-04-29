@@ -50,6 +50,7 @@ Titles should be short but descriptive. They should be a maximum of one sentence
 - cmt : comments
 - acmt : announcements
 - comp : goals completed
+- sec : security
 
 ## Emojis:
 
@@ -69,4 +70,5 @@ Titles should be short but descriptive. They should be a maximum of one sentence
 - 📌 (pushpin) : goals
 - 💬 (speech baloon) : comments
 - 📢 (loudspeaker) : announcements
-- ✅ (check mark) : goals completed 
+- ✅ (check mark) : goals completed
+- 🔒 (lock) : security
